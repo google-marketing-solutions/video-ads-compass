@@ -1,0 +1,6 @@
+google-cloud-aiplatform
+google-genai
+google-auth
+gspread
+pandas
+pytest
